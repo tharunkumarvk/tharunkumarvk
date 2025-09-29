@@ -1,9 +1,11 @@
-<!-- Banner / Hero -->
+<!-- GitHub Profile README -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:2E026D,100:15162C&text=Tharun%20Kumar&section=header&reversal=false&fontColor=F2F5F9&fontSize=52&animation=fadeIn" alt="Tharun Kumar Banner"/>
 </p>
 
 <p align="center">
+  <!-- Replace placeholder links -->
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-Live-6A00F5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -14,125 +16,138 @@
 
 ### 👋 Hi, I’m Tharun
 
-I craft resilient, scalable, and user-focused software products—bridging clean architecture, modern frontend experiences, and performance-aware backend systems. I love turning complex problem spaces into elegant engineering systems and developer-friendly tools.
+I build pragmatic, scalable, and human-centered software—combining clean architectural thinking with product intuition. I love modular systems, developer tooling, and turning research or fuzzy ideas into production-grade experiences.
 
-> Mission: Build things people **use**, developers **enjoy**, and systems that **scale**.
+> Engineering Philosophy: Sustainable velocity through clarity, composability, and measurable impact.
 
 ---
 
-### 🚀 Signature Projects
+### 🚀 Featured Projects
 
-#### 🌌 Celestia – Modular Architecture / Platform Core  
-A foundation project exploring a modular and extensible platform design—emphasizing isolation, composability, and future-proof evolution.  
-Tech Focus: Domain-driven structure, abstraction boundaries, scalability mindset.  
-Repo: [celestia-main](https://github.com/tharunkumarvk/celestia-main)
-
-#### 🥗 Nutre Vida – Smart Nutrition / Health Experience  
-A product-centric application (multi-repo) focused on elevating nutrition tracking and personalized engagement.  
-Roles: Architecture decisions, frontend experience, API integration, reusable UI patterns.  
+#### 🥗 Nutre Vida – Personalized Nutrition & Engagement Platform  
+A multi-repo product ecosystem focused on nutrition tracking, behavioral reinforcement, and extensible feature evolution.  
+Highlights: Modular backend evolution, UI patterns for scalability, performance-conscious frontend composition.  
 Repos:  
-• Backend / Core: [Nutre-Vida-Rev2](https://github.com/AstuteNemesis85/Nutre-Vida-Rev2)  
-• Frontend: [Nutre-Vida-FrontEnd](https://github.com/Mohammed0Arfath/Nutre-Vida-FrontEnd)
+- Core / Backend: (Adjust link if needed) [Nutre-Vida-Rev2](https://github.com/AstuteNemesis85/Nutre-Vida-Rev2)  
+- Frontend Experience: [Nutre-Vida-FrontEnd](https://github.com/Mohammed0Arfath/Nutre-Vida-FrontEnd)
 
-#### ⚛️ Celestia React Draft (Optional Showcase)  
-A React-driven evolution layer experimenting with component orchestration, state isolation, and future plugin-driven UI expansions.  
-Repo: [celestia-react-draft](https://github.com/tharunkumarvk/celestia-react-draft)
+#### 🧪 Conversational-EdaAgent – AI-Driven Exploratory Data Analysis Assistant  
+An intelligent agent that assists with exploratory data analysis via conversational interaction.  
+Focus Areas: Multi-turn context retention, dataset schema introspection, adaptive insight generation, safe code execution boundaries.  
+Planned / Implemented Features:  
+- Automatic summary generation (distributions, missingness, correlations)  
+- Natural language → EDA queries → generated code → result explanation  
+- Extensible skill registry for statistical tests and visualization strategies  
+Repo: (Add link here once confirmed)
 
-> Want me to swap these out? Just say: “Replace X with Y”.
+#### 🩺 Disease Prediction Using Fuzzy Logic – Interpretable Risk Inference  
+A fuzzy inference system (FIS) for disease risk stratification using linguistic rules and membership-driven reasoning.  
+Why It Matters: Combines interpretability, extensibility, and domain-aligned reasoning where black-box ML may be opaque.  
+Core Elements:  
+- Tunable membership functions (triangular / trapezoidal / Gaussian)  
+- Rule base with medical-style IF–AND–THEN semantics  
+- Hybrid pipeline: preprocessing + symptom scoring + fuzzy inference + optional ML calibration layer  
+Repo: (Add link here once confirmed)
+
+> Want to highlight a different project or reorder? Just ask.
 
 ---
 
 ### 🧠 Core Engineering Stack
 
-| Layer | Technologies |
-|-------|--------------|
-| Languages | JavaScript / TypeScript, (add: Python / Go / Rust if applicable) |
-| Frontend | React, Next.js (if used), TailwindCSS / CSS Modules, Component-driven architecture |
-| Backend | Node.js (Express / Fastify / Nest?), RESTful patterns, (Add GraphQL / tRPC if relevant) |
-| Architecture | Modular monoliths, domain boundaries, layered design, clean abstractions |
-| Data | (Add: PostgreSQL / MongoDB / Redis / Prisma / ORM of choice) |
-| Tooling & DX | GitHub Actions, linting/format (ESLint, Prettier), commit hygiene, semantic versioning |
-| Cloud & Infra | (Add: Docker, Vercel, Render, AWS, etc.) |
-| Testing | (Add: Jest, Vitest, React Testing Library, Playwright) |
-| Performance | Bundle analysis, code splitting, caching strategies |
-| Collaboration | Code reviews, architectural decision records (ADR), readable commit narratives |
+| Layer | Technologies / Practices |
+|-------|--------------------------|
+| Languages | TypeScript, JavaScript, Python (EDA / ML), (add: Go / Rust if applicable) |
+| Frontend | React, (Next.js?), Tailwind CSS / utility-first patterns, component isolation |
+| Backend | Node.js (Express / Fastify / Nest?), REST APIs, modular boundaries |
+| Intelligence | Prompt engineering, lightweight agent frameworks, rule-based + statistical hybrid |
+| Data & Storage | (Add: PostgreSQL, MongoDB, Redis, Prisma ORM) |
+| Modeling / Analytics | Pandas, scikit-learn, fuzzy logic systems, EDA automation |
+| Architecture | Domain-oriented modular design, plugin-ready layers, clean abstractions |
+| DevOps / Infra | GitHub Actions, Docker, (Add: Vercel / AWS / Render) |
+| Testing | (Add: Jest, Vitest, React Testing Library, PyTest) |
+| Tooling & DX | ESLint, Prettier, commit hygiene, semantic versioning |
+| Performance | Code splitting, caching strategy, metrics instrumentation |
+| Collaboration | Structured reviews, ADRs, architectural storytelling |
 
-> Fill in any missing tech to sharpen relevancy.
-
----
-
-### 🔍 What I Value in Engineering
-
-- Clarity over cleverness
-- Predictable evolution paths for codebases
-- Developer enablement (automation, templates, interfaces)
-- Measurable performance & observability
-- UI consistency driven by design systems
+Fill in the placeholders to sharpen credibility.
 
 ---
 
-### 📊 Quick Insight
+### 🔍 Engineering Values
+
+- Composability > monolith sprawl  
+- Intentional abstractions, not premature generalization  
+- Human-readable complexity budgets  
+- Observability-first mindset  
+- Interpretable intelligence where possible
+
+---
+
+### 📊 Profile Insight
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tharunkumarvk&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkumarvk&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tharunkumarvk&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkumarvk&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tharunkumarvk&theme=radical&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=tharunkumarvk&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
 
 ### 🧩 Current Focus
 
-- Hardening modular architectures for evolving product ecosystems
-- Building reusable component libraries & developer tooling
-- Performance budgets + ergonomic abstractions
-- (Add: AI integration? real-time sync? analytics?)
+- Hardening Conversational-EdaAgent reasoning layers  
+- Fuzzy logic calibration (membership tuning + rule refinement)  
+- Modularizing feature sets in Nutre Vida for plug-and-play verticals  
+- Performance + maintainability alignment in shared UI primitives
 
 ---
 
-### 🛠️ Recently Building / Exploring
+### 🛠️ Active Work Log
 
 ```diff
-+ Improving separation of domains inside Celestia
-+ Experimenting with composable UI layers
-+ Strengthening CI automation and static analysis
-! Evaluating performance bottlenecks in frontends
-- Phasing out legacy patterns where abstraction debt exists
++ Expanding fuzzy inference rule coverage
++ Refining conversational context retention pipeline
+! Evaluating tradeoffs between rule-based vs model-based risk scoring
+- Phasing out ad-hoc utility scripts with formal modules
 ```
 
 ---
 
-### 🗺️ Roadmap Teasers
+### 🗺️ Near-Term Roadmap
 
 | Area | Direction |
 |------|----------|
-| Celestia | Plugin API + feature isolation |
-| Nutre Vida | Personalization & scalability |
-| Frontend | Design token pipeline & accessible primitives |
-| Tooling | Developer CLIs, scaffolds, test harness automation |
+| Nutre Vida | Personalized recommendation engine + analytics dashboards |
+| Conversational-EdaAgent | Multi-dataset session memory + visualization plugin API |
+| Fuzzy Disease Prediction | Hybrid fuzzy + calibrated ML stacking layer |
+| Tooling | Internal CLI scaffolds + quality gates |
+| Architecture | Observability hooks + rule introspection UI (planned) |
 
 ---
 
-### 🤝 Let’s Collaborate
+### 🤝 Collaboration & Outreach
 
-Looking to pair on: architecture reviews, frontend performance audits, or cross-repo design systems.  
-Open to mentoring or open-source contributions—reach out!
+Interested in:  
+- EDA automation, interpretable intelligence, healthtech tooling  
+- Architecture reviews or system modularization strategy  
+- Open-source fuzzy inference / rule tooling
+
+> Let’s build systems that are both explainable and scalable.
 
 <p align="center">
-  <b>“Great engineering is a dialogue between constraints, creativity, and iteration.”</b>
+  <b>"Elegant systems emerge from deliberate boundaries and relentless iteration."</b>
 </p>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-6A00F5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20&%20Iterating-6A00F5?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=tharunkumarvk&style=for-the-badge&color=grey" />
 </p>
 
-<!-- Optional: Uncomment if you want a trophy board -->
+<!-- Optionally re-enable trophy board -->
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tharunkumarvk&theme=onestar&margin-w=10&row=1" />
 </p> -->
