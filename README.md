@@ -4,12 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:2E026D,100:15162C&text=Tharun%20Kumar&section=header&reversal=false&fontColor=F2F5F9&fontSize=52&animation=fadeIn" alt="Tharun Kumar Banner"/>
 </p>
 
+![git](https://github.com/user-attachments/assets/9a648eb3-522e-4b23-a9df-e6845a868def)
+
+
 <p align="center">
   <!-- Replace placeholders below -->
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-Live-6A00F5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X_(Twitter)-Engage-222222?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:tharunkumarvk28@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tharunkumar-vk/"><img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="coming-soon"><img src="https://img.shields.io/badge/Portfolio-Live-6A00F5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -47,30 +49,13 @@ Repo: [Disease-Prediction-using-fuzzy-logic](https://github.com/tharunkumarvk/Di
 
 | Area | Tech / Practice |
 |------|-----------------|
-| Languages | TypeScript, JavaScript, Python |
-| Frontend | React, Tailwind CSS, modular component patterns |
-| Backend | Node.js (Express / Fastify / Nest?), REST APIs, modular service boundaries |
+| Languages | Python, c++, Java(core) |
+| Backend | Django, Fastapi, REST APIs, modular service boundaries |
 | Data / Analysis | Pandas, scikit-learn, fuzzy logic systems, statistical EDA automation |
 | Intelligence | Prompt engineering, agent design, hybrid rule + model approaches |
-| Infra / DevOps | GitHub Actions, Docker |
-| Persistence | (Add: PostgreSQL / MongoDB / Redis / Prisma) |
-| Testing | (Add: Jest, Vitest, PyTest, React Testing Library) |
-| Architecture | Domain-driven seams, plugin-style modularization, ADR documentation |
-| Tooling | ESLint, Prettier, semantic commits, automation scripts |
-| Performance | Code splitting, caching, bundle analysis, profiling |
-| Observability | (Add: OpenTelemetry / tracing / structured logging) |
 
 ---
 
-### 🔍 Engineering Values
-
-- Composable boundaries over accidental sprawl  
-- Interpretability as a feature  
-- Automation that compounds developer velocity  
-- Data-informed iteration loops  
-- Explicit tradeoff documentation
-
----
 
 ### 📊 Profile Metrics
 
@@ -86,8 +71,7 @@ Repo: [Disease-Prediction-using-fuzzy-logic](https://github.com/tharunkumarvk/Di
 
 ### 🧩 Current Focus
 
-- Conversational agent reasoning pipelines (EDA automation)  
-- Fuzzy rule calibration + membership tuning  
+- Conversational agent reasoning pipelines (EDA automation)    
 - Modular feature isolation in multi-repo product ecosystems  
 - Consistent UI primitives & design token discipline
 
@@ -109,20 +93,11 @@ Repo: [Disease-Prediction-using-fuzzy-logic](https://github.com/tharunkumarvk/Di
 | Area | Direction |
 |------|-----------|
 | EDA Agent | Visualization plugin API + query memory graph |
-| Fuzzy Engine | Multi-disease modular packs + calibration layer |
 | Nutre Vida | Personalized recommendation + analytics surfaces |
-| Tooling | Internal scaffolding CLI + quality gateways |
 | Observability | Structured traces + rule contribution introspection |
 
 ---
 
-### 🤝 Collaboration
-
-Open to pairing on:  
-- EDA / data intelligence tooling  
-- Interpretable AI / hybrid systems  
-- Architecture reviews & modular design  
-- Healthtech analytics / reasoning layers  
 
 > “Elegant systems are the result of deliberate constraints and relentless iteration.”
 
