@@ -22,7 +22,7 @@ Refined version with supplied pixel art image.
 
 ---
 
-### 🌟 Featured (Pinned Style)
+### 🌟 Featured 
 
 | Project | Simple Idea | Tech Touch |
 |---------|-------------|------------|
@@ -32,7 +32,7 @@ Refined version with supplied pixel art image.
 
 ---
 
-### 🧰 Stack (Kept Simple)
+### 🧰 Stack 
 
 **Frameworks / APIs:** Django · FastAPI · Flask · LangGraph  
 **Languages:** Python · C++ · Core Java  
@@ -57,7 +57,6 @@ Refined version with supplied pixel art image.
 
 ---
 
-### 🎨 Little 3D / Motion Touch
 
 <div align="center">
 <pre style="font-weight:600; line-height:1; font-size:12px;">
@@ -85,9 +84,6 @@ Simple things. Steady pace. Useful outcomes.
 
 ---
 
-<div align="center">
-Thanks for visiting — have a good build. ✨
-</div>
 
 <!--
 Notes:
