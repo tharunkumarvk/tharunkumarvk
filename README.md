@@ -8,13 +8,12 @@ Refined version with supplied pixel art image.
 <div align="center">
 
 <!-- Hero Image (Replace the path below with the real one in your repo, e.g. /assets/pixel-desk.png) -->
-<img src="assets/pixel-desk.png" alt="Pixel art night desk: coding, retro shelf, plants, soft glow" width="100%" style="max-width:880px; border-radius:8px;"/>
-
+![git](https://github.com/user-attachments/assets/deb0e057-0435-4f2e-a8db-6cf3d6b5122a)
 <!-- Layered / faux 3D title -->
 <p>
 <span style="font-size:40px; font-weight:700; letter-spacing:1px; line-height:1;">
 <span style="color:#111; position:relative; top:4px; left:4px;">THARUN</span>
-<span style="color:#ff2d75;">THARUN</span>
+<span style="color:#ff2d75;">Kumar</span>
 </span><br/>
 <sub style="font-size:14px;">Clean builds • Calm flow • Constant learning</sub>
 </p>
