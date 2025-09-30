@@ -1,91 +1,97 @@
 <!--
 GitHub Profile README for @tharunkumarvk
 Tone: formal, concise, friendly, human.
-Keep wording simple. Avoid heavy jargon.
+Keep wording simple. Low on jargon.
+Refined version with supplied pixel art image.
 -->
 
 <div align="center">
 
-### 👋 Hi, I'm **Tharun**
+<!-- Hero Image (Replace the path below with the real one in your repo, e.g. /assets/pixel-desk.png) -->
+<img src="assets/pixel-desk.png" alt="Pixel art night desk: coding, retro shelf, plants, soft glow" width="100%" style="max-width:880px; border-radius:8px;"/>
 
-Clean code. Clear thinking. Constant learning.
+<!-- Layered / faux 3D title -->
+<p>
+<span style="font-size:40px; font-weight:700; letter-spacing:1px; line-height:1;">
+<span style="color:#111; position:relative; top:4px; left:4px;">THARUN</span>
+<span style="color:#ff2d75;">THARUN</span>
+</span><br/>
+<sub style="font-size:14px;">Clean builds • Calm flow • Constant learning</sub>
+</p>
 
-<!-- 3D style header (simple layered text illusion) -->
-<pre style="font-size:14px; line-height:1; font-weight:600;">
-██████╗ ██╗   ██╗
-╚════██╗██║   ██║
- █████╔╝██║   ██║   Building
- ╚═══██╗██║   ██║   Useful
-██████╔╝╚██████╔╝   Things
-╚═════╝  ╚═════╝
+</div>
+
+---
+
+### 🌟 Featured (Pinned Style)
+
+| Project | Simple Idea | Tech Touch |
+|---------|-------------|------------|
+| [Nutre-Vida-Rev2](https://github.com/AstuteNemesis85/Nutre-Vida-Rev2) | Gentle nutrition tracker with a smoother flow. | Python |
+| [Conversational-Eda-Agent](https://github.com/tharunkumarvk/Conversational-Eda-Agent) | Chat with your data. It explores and explains. | FastAPI · LangGraph · Python |
+| [Disease-Prediction-using-fuzzy-logic](https://github.com/tharunkumarvk/Disease-Prediction-using-fuzzy-logic) | Fuzzy logic guess of possible conditions. | Python |
+
+---
+
+### 🧰 Stack (Kept Simple)
+
+**Frameworks / APIs:** Django · FastAPI · Flask · LangGraph  
+**Languages:** Python · C++ · Core Java  
+**Interests:** Data chats · Light AI helpers · Clean automation
+
+---
+
+### 🧪 Now
+
+- Making data feel like a conversation  
+- Smoothing small developer workflows  
+- Building quiet tools that help without noise  
+
+---
+
+### 💡 Approach
+
+- Keep code small and readable  
+- Automate boring loops  
+- Clear naming over clever tricks  
+- Learn one tiny thing daily  
+
+---
+
+### 🎨 Little 3D / Motion Touch
+
+<div align="center">
+<pre style="font-weight:600; line-height:1; font-size:12px;">
+╔════════ BUILDING QUIET TOOLS ════════╗
+║  DEPLOY • THINK • ITERATE • REPEAT  ║
+╚═════════════════════════════════════╝
 </pre>
 
-</div>
-
----
-
-### 🌟 Featured Projects (Pinned Style)
-
-| Project | What it is (in simple words) | Tech Touch |
-|---------|------------------------------|------------|
-| [Nutre-Vida-Rev2](https://github.com/AstuteNemesis85/Nutre-Vida-Rev2) | A smart take on nutrition tracking with a calmer flow. | Python |
-| [Conversational-Eda-Agent](https://github.com/tharunkumarvk/Conversational-Eda-Agent) | Chat with your data. It responds, explores, explains. | FastAPI, LangGraph, Python |
-| [Disease-Prediction-using-fuzzy-logic](https://github.com/tharunkumarvk/Disease-Prediction-using-fuzzy-logic) | Simple fuzzy logic model to guess possible conditions. | Python |
-
----
-
-### 🧰 What I Work With
-
-**Backends & APIs:** Django · FastAPI · Flask · LangGraph  
-**Languages:** Python · C++ · Core Java  
-**Other Interests:** Data exploration · Smart tooling · Clean automation
-
----
-
-### 💡 How I Think
-
-- Keep things small, readable, and honest.
-- Automate boring steps.
-- Make tools people actually use.
-- Learn something tiny each day.
-
----
-
-### 📌 Current Focus
-
-- Conversational data tools  
-- Smarter API patterns  
-- Lightweight AI-driven helpers
-
----
-
-### 🛰️ A Subtle 3D Touch
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="500"/>
-
-<sub>(A little motion — keeps things lively.)</sub>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="520"/>
 
 </div>
 
 ---
 
-### 📬 Reach Out
+### 🤝 Reach Out
 
-Open an issue on a repo or drop a discussion. Always happy to connect over ideas or improvements.
+Open an issue, start a discussion, or drop a star if something helped.  
+Always open to ideas, small tweaks, or friendly feedback.
 
 ---
 
-### 🤍 Simple Motto
+### 🧭 Motto
 
-Build quiet tools that speak for themselves.
+Simple things. Steady pace. Useful outcomes.
 
 ---
 
 <div align="center">
-  
-**Thanks for stopping by.**  
-⭐ If something helped you, feel free to star it.
-
+Thanks for visiting — have a good build. ✨
 </div>
+
+<!--
+Notes:
+1. Replace assets/pixel-desk.png with the actual path of the provided image once added to the repo.
+2. Avoid adding heavy CSS since GitHub strips most style attributes (fallback text still reads fine).
+-->
