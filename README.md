@@ -12,8 +12,8 @@ Refined version with supplied pixel art image.
 <!-- Layered / faux 3D title -->
 <p>
 <span style="font-size:40px; font-weight:700; letter-spacing:1px; line-height:1;">
-<span style="color:#111; position:relative; top:4px; left:4px;">THARUN</span>
-<span style="color:#ff2d75;">Kumar</span>
+<span style="color:#111; position:relative; top:4px; left:4px;">Tharunkumar</span>
+<span style="color:#ff2d75;">VK</span>
 </span><br/>
 <sub style="font-size:14px;">Clean builds • Calm flow • Constant learning</sub>
 </p>
