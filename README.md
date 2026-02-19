@@ -22,6 +22,10 @@ Refined version with supplied pixel art image.
 
 ---
 
+Hey, I'm Tharunkumar — a developer who likes building small, useful tools that make everyday work a bit easier. I mostly work with Python and enjoy exploring data and lightweight AI solutions.
+
+---
+
 ### 🌟 Featured 
 
 | Project | Simple Idea | Tech Touch |
@@ -75,6 +79,9 @@ Refined version with supplied pixel art image.
 
 Open an issue, start a discussion, or drop a star if something helped.  
 Always open to ideas, small tweaks, or friendly feedback.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tharunkumar-vk/)
+- 📧 [tharunkumarvk28@gmail.com](mailto:tharunkumarvk28@gmail.com)
 
 ---
 
