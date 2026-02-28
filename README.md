@@ -30,7 +30,7 @@ Hey, I'm Tharunkumar — a developer who likes building small, useful tools that
 
 | Project | Simple Idea | Tech Touch |
 |---------|-------------|------------|
-| [Nutre-Vida-Rev2](https://github.com/AstuteNemesis85/Nutre-Vida-Rev2) | Gentle nutrition tracker with a smoother flow. | Python |
+| [Nutre-Vida-Rev2](https://github.com/tharunkumarvk/celestia-main) | Gentle nutrition tracker with a smoother flow. | Python |
 | [Conversational-Eda-Agent](https://github.com/tharunkumarvk/Conversational-Eda-Agent) | Chat with your data. It explores and explains. | FastAPI · LangGraph · Python |
 | [Disease-Prediction-using-fuzzy-logic](https://github.com/tharunkumarvk/Disease-Prediction-using-fuzzy-logic) | Fuzzy logic guess of possible conditions. | Python |
 
